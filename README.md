@@ -1,25 +1,34 @@
-### Hi there, I'm Cuong 👋
+# Quoc Cuong Ma | Software Engineer
 
-I'm a final-year student at Ton Duc Thang University, on the path to becoming a professional Software Engineer. I'm passionate about building robust, scalable, and elegant backend systems.
-
-When I'm not coding, I enjoy exploring diverse topics through books—from history and philosophy to fiction like *To Kill a Mockingbird* and *Sophie's World*.
+I am a software engineer passionate about building scalable, high-performance backend systems. My focus is on writing clean, efficient, and maintainable code to solve complex problems. I believe that the best products are built with a strong foundation in both robust architecture and user-centric design.
 
 ---
 
-#### **Core Skills**
+### What I Focus On
 
--   **Languages:** Java, JavaScript, Node.js
--   **Backend Frameworks:** Spring, Express.js
--   **Architectural Patterns:** Service-Oriented Architecture (SOA)
-
----
-
-#### **Featured Project**
-
--   **[e-commerce-soa](https://github.com/mqcuong1603/e-commerce-soa)**: A service-oriented architecture project for an e-commerce platform, showcasing a variety of features and backend design patterns.
+*   **Backend Development:** Designing and implementing server-side logic, APIs, and database schemas using Java (Spring) and Node.js (Express).
+*   **System Architecture:** Applying architectural patterns like Service-Oriented Architecture (SOA) to build modular and resilient applications.
+*   **Problem Solving:** Breaking down complex challenges into manageable components and developing effective, long-term solutions.
 
 ---
 
-#### **Connect with Me**
+### Technologies & Skills
 
--   **LinkedIn:** [Quoc Cuong Ma](https://www.linkedin.com/in/quoc-cuong-ma-4051a4252)
+*   **Languages:** Java, JavaScript / Node.js
+*   **Frameworks:** Spring, Express.js
+*   **Databases & Tools:** SQL (PostgreSQL, MySQL), Git, Docker
+*   **Architectural Principles:** SOA, RESTful APIs, Object-Oriented Design
+
+---
+
+### Project Spotlight
+
+**[e-commerce-soa](https://github.com/mqcuong1603/e-commerce-soa) — A Resilient E-Commerce Platform**
+
+This project is an implementation of an e-commerce backend using a **Service-Oriented Architecture (SOA)**. The goal was to design a system where core functionalities (like user management, product catalog, and orders) are developed as independent, loosely-coupled services. This approach enhances scalability, and maintainability, and allows for independent deployment of components.
+
+---
+
+### Let's Connect
+
+You can find me on **[LinkedIn](https://www.linkedin.com/in/quoc-cuong-ma-4051a4252)**. I'm always open to discussing technology, software architecture, or interesting books.
